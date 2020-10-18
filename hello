@@ -1,0 +1,8 @@
+#!/bin/bash
+#
+# Automated greeter for Star Wars crew
+
+echo "Hi Leila"
+echo "Hi R3D3"
+echo "Hi Han Duo"
+

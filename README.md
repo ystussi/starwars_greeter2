@@ -1,1 +1,1 @@
-Automated greeter for the Star Wars crew (no program yet)
+Automated greeter for the Star Wars crew
